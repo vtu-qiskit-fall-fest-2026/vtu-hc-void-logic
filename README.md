@@ -307,6 +307,6 @@ Released under the [MIT License](LICENSE). See `LICENSE` for details.
 **Void logic** · Team ID `VTU-QFF-HC-0128` · Tier `Online`
 · Built with ⚛️ Qiskit for the VTU-QFF Hackathon
 
-[⬆ Back to Top](#Void logic)
+[⬆ Back to Top](#void-logic)
 
 </div>
